@@ -1,0 +1,3 @@
+The GRP project aims to be an inclusive and welcoming platform for everyone. It provides a wide range of functionalities designed to cater to the diverse needs of all users. Whether you are looking for tools to enhance productivity, features to improve collaboration, or resources for learning and development, the GRP project has something for everyone. Our goal is to create a supportive environment where all individuals can thrive and achieve their goals.
+
+*This is the goal
